@@ -1,1 +1,2 @@
-# OwenDing1104.hw2-f24
+# hw2_simple_css
+Starter code for simple css assignment
